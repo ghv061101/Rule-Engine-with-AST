@@ -1,6 +1,3 @@
-Here's a sample README file for your rule engine project. This README includes sections for project description, setup instructions, usage, and examples.
-
-### README.md
 
 ```markdown
 # Rule Engine
