@@ -24,7 +24,7 @@ This project implements a simple rule engine in Java that allows users to define
    cd Rule-Engine-with-AST
 
 ### project setup
-  - ast/
+   ast/
     Node.java
     UserData.java
     RuleCreator.java
