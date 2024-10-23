@@ -1,4 +1,7 @@
 
+
+### README.md
+
 ```markdown
 # Rule Engine
 
@@ -23,7 +26,7 @@ This project implements a simple rule engine in Java that allows users to define
    
    ```bash
    git clone <https://github.com/ghv061101/Rule-Engine-with-AST.git>
-   
+   cd <project-directory>
    ```
 
 2. **Create a package structure** that matches the class files:
@@ -80,12 +83,3 @@ When you run the program, you will be prompted to enter a rule for evaluation. T
 
 
 ```
-
-### Instructions for Use
-
-1. **Clone the Repository**: Replace `<repository-url>` with the URL of your Git repository if you choose to host the code online. If you haven't uploaded it yet, you can omit this step.
-2. **Project Directory**: Change `<project-directory>` to the name of your local directory where the project files are located.
-
-### Additional Information
-
-You can adjust the README according to your preferences, including adding sections for testing, roadmaps, or specific features you might want to highlight. Let me know if you'd like any changes or additional details!
