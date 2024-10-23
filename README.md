@@ -22,3 +22,18 @@ This project implements a simple rule engine in Java that allows users to define
    ```bash
    git clone https://github.com/ghv061101/Rule-Engine-with-AST.git
    cd Rule-Engine-with-AST
+
+   project setup
+   ast/
+    Node.java
+    UserData.java
+    RuleCreator.java
+    RuleEvaluator.java
+    RuleModifier.java
+    Main.java
+
+   input
+   Enter a rule for evaluation (e.g., (age > 30 AND department = "Sales")): ((age > 30 AND department = "Sales"))
+   output
+   Rule Evaluation Result: true
+
